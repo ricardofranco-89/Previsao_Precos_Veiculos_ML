@@ -82,7 +82,7 @@ O projeto demonstrou que é possível estimar com alta precisão o preço de ve�
 
 🔹 **Acurácia final:** 89%
 🔹 **Modelo escolhido:** XGBRegressor
-🔹 **Próximos passos:** integração do modelo em uma aplicação web interativa.
+
 
 ### 📁 Estrutura do Projeto
 
