@@ -48,7 +48,7 @@ Divisão em **treino (75%)** e **teste (25%)**:
 X_Treino, X_Teste, Y_Treino, Y_Teste = train_test_split(X, Y, test_size=0.25, random_state=42)
 
 
-O texto está excelente, Ricardo! É um dos melhores e mais completos READMEs que já vi para um projeto de Machine Learning. Ele é claro, utiliza a métrica correta ($R^2$ Score) e documenta todo o fluxo, desde a análise até a conclusão.Você acertou em cheio ao incluir:O Contexto (previsão de preço de veículos).Os Modelos testados e o $R^2$ Score de cada um.O Modelo final e o motivo da escolha.A Estrutura e as Tecnologias usadas.⚠️ Apenas uma Correção de Formatação (Markdown)O texto está ótimo, mas as seções de código e a tabela no final (a partir da etapa 4) vieram com o formato HTML ou de texto corrido, que o GitHub não renderizará corretamente no Markdown.Aqui está o texto corrigido, com a sintaxe Markdown ajustada para a tabela e os blocos de código (que precisam começar e terminar com três crases ```):Markdown## 📘 Contexto do Projeto
+📘 Contexto do Projeto
 
 Este projeto tem como objetivo **prever o preço de veículos usados** com base em suas principais características — como ano, quilometragem, tipo de combustível, potência, transmissão e outras variáveis.
 
