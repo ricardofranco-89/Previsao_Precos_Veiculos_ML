@@ -1,0 +1,9 @@
+# Arquivos gerados pelo modelo
+*.pk
+*.pkl
+*.h5
+*.joblib
+/modelo_treinado_veiculos.pk
+
+# Pastas e arquivos do Jupyter
+.ipynb_checkpoints/
